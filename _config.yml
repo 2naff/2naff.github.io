@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Author settings
 author: Nam Gi Beom
-author-pic: adam-face.jpg　
+author-pic: adam-face.jpg
 about-author: 도쿄에서 근무하고 있는 남기범이라고 합니다. 컴퓨터와 데이터 분석에 뜻을 품고 있으며 취미로는 콘서트 관람과 출사입니다. 본 블로그는 배운 내용을 다시 복기하는 용도의 정리, 그리고 소소하게 일상 및 여행 일지 기록용입니다.
 
 # Contact links

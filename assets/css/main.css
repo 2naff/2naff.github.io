@@ -1499,18 +1499,6 @@ pre code {
   line-height: 1.8;
 }
 
-.about-text.ko {
-  font-family: 'Lato', sans-serif;
-}
-
-.about-text.ja {
-  margin-top: 1.5rem;
-  font-family: 'Noto Sans JP',
-               "Hiragino Kaku Gothic ProN",
-               "Yu Gothic",
-               "Meiryo",
-               sans-serif;
-}
 
 
 

@@ -12,16 +12,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 author: Nam Gi Beom
 author-pic: adam-face.jpg
 about-author: | 
-  도쿄에서 근무하고 있는 <b>남기범</b>이라고 합니다. 컴퓨터와 데이터 분석에 뜻을 품고 있으며 취미로는 콘서트 관람과 출사입니다. 
+  도쿄에서 근무하고 있는 <b>남기범</b>이라고 합니다. 컴퓨터와 데이터 분석에 뜻을 품고 있으며
+  취미는 일본 가수 콘서트 관람과 출사입니다. 
   본 블로그에는 배운 내용과 일본 곳곳을 돌아다니며 찍은 감상 그리고 소소한 일상을 전달해드리고자 합니다.
 
+  初めまして。現在、東京で働いている<b>ナム ギボム</b>と申します。主にコンピュータとデータ分析に力を入れています。
+  趣味は日本の歌手さんのライブ見に行くことと写真を撮ることです。
+  当ブログでは学んだ知識の共有と日本あちこちを巡って撮った写真や感想、そして些細な日常をお伝えしようと思っています。
+
 # Contact links
-email: # Add your Email address
+email: mcuki2122@gmail.com
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github:  # Add your Github handle
+twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle

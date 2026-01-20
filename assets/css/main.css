@@ -1496,7 +1496,23 @@ pre code {
   font-weight: 300;
   margin: 0;
   white-space: pre-line;
+  line-height: 1.8;
 }
+
+.about-text .ko {
+  font-family: 'Lato', 'Noto Sans KR', sans-serif;
+}
+
+.about-text.ja {
+  margin-top: 1.5rem;
+  font-family: 'Noto Sans JP',
+               "Hiragino Kaku Gothic ProN",
+               "Yu Gothic",
+               "Meiryo",
+               sans-serif;
+}
+
+
 
 .about-body .contact-list {
   margin: 0;

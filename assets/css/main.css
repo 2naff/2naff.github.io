@@ -1495,6 +1495,7 @@ pre code {
   color: #311e3e;
   font-weight: 300;
   margin: 0;
+  white-space: pre-line;
 }
 
 .about-body .contact-list {

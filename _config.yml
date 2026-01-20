@@ -1,5 +1,5 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: 2naff의 일상
+email: mcuki2122@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,9 @@ url: "https://2naff.github.io" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Nam Gi Beom（ナム　ギボム） # add your name
+author-pic: adam-face.jpg　# 경로는 assets/img/ ~ 
+about-author: 도쿄에서 근무하고 있는 남기범이라고 합니다. 컴퓨터와 데이터 분석에 뜻을 품고 있으며 취미로는 콘서트 관람과 출사입니다. 본 블로그는 배운 내용을 다시 복기하는 용도의 정리, 그리고 소소하게 일상 및 여행 일지 기록용입니다.
 
 # Contact links
 email: # Add your Email address

@@ -1,0 +1,23 @@
+---
+layout: home-page
+title: daily
+permalink: /category/daily/
+---
+
+{% assign posts = site.posts | where: "category", "daily" %}
+
+
+<div class="post-card-box clearfix">
+  {% for post in posts %}
+    <li>
+      <div class="post-card">
+        <a href="{{post.url}}" class="post-card-image" style="background-image: url(/assets/img/{{post.img}})">
+        </a>
+
+        <div class="post-card-body">  
+          <a href="{{post.url}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+</div>

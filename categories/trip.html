@@ -1,18 +1,23 @@
 ---
-layout: default
+layout: home-page
 title: trip
 permalink: /category/trip/
 ---
 
 {% assign posts = site.posts | where: "category", "trip" %}
 
-<ul>
+
+<div class="post-card-box clearfix">
   {% for post in posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-      <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+      <div class="post-card">
+        <a href="{{post.url}}" class="post-card-image" style="background-image: url( /assets/img/post-1.jpg )">
+        </a>
+
+        <div class="post-card-body">  
+          <a href="{{post.url}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+        </div>
+      </div>
     </li>
-  {% endfor %}
-</ul>
+    {% endfor %}
+</div>

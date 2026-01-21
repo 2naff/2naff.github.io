@@ -1501,11 +1501,13 @@ pre code {
 
 .about-text.ko {
   font-family: 'Lato', sans-serif;
+  font-weight: 100;
 }
 
 .about-text.jp {
   margin-top: 1.5rem;
   font-size: 11pt;
+  font-weight: 100;
   font-family: 'Noto Sans JP',
                "Hiragino Kaku Gothic ProN",
                "Yu Gothic",
